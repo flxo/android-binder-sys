@@ -1,0 +1,9 @@
+[package]
+name = "android-binder-sys"
+version = "0.1.0"
+authors = ["Felix Obenhuber <felix@obenhuber.de>"]
+
+[build-dependencies]
+bindgen = "0.26.3"
+
+[dependencies]
